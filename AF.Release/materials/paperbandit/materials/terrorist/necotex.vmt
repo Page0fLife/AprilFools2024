@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/paperbandit/materials/terrorist/necotex"
+	"$bumpmap" "models/paperbandit/materials/terrorist/necobump"
+}

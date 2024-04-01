@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/paperbandit/materials/terrorist/akm_furniture_albedo"
+	"$bumpmap" "models/paperbandit/materials/terrorist/akm_furniture_bump"
+}
